@@ -1,6 +1,6 @@
 import React from 'react'
 import data from './data/etsy.json'
-import Listing from "./Listing/Listing.jsx";
+import Listing from "./Listing/ListItem.tsx";
 import './App.css'
 
 function App() {
